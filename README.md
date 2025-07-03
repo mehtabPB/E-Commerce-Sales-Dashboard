@@ -26,6 +26,8 @@ Total Sales Amount	438K
 Total Profit	37K
 Total Products	5615
 Count of Sub-Categories	17
+![image](https://github.com/user-attachments/assets/1454f28b-12fd-4283-9d71-95f7b564b2e2)
+
 
 📈 Dashboard Components
 🔹 Total Amount Sold per Category
